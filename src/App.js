@@ -15,6 +15,18 @@ import Palais from './components/pages/Palais';
 import Eyfel from './components/pages/Eyfel';
 import France from './components/pages/France';
 import Roma from './components/pages/Roma';
+import Collesium from './components/pages/Collesium';
+import TreviFountain from './components/pages/TreviFountain';
+import GalleriaBorghese from './components/pages/GalleriaBorghese';
+import MariaMaggiore from './components/pages/MariaMaggiore';
+import London from './components/pages/London';
+import Buckinghampalace from './components/pages/BuckinghamPalace';
+import LondonEye from './components/pages/LondonEye';
+import BritishMuseum from './components/pages/BritishMuseum';
+import TowerBridge from './components/pages/TowerBridge';
+import CoventGarden from './components/pages/CoventGarden';
+import TowerOfLondon from './components/pages/TowerOfLondon';
+import ViewShard from './components/pages/ViewShard';
 
 import CanadaPage from './components/pages/CanadaPage';
 import Toronto from './components/pages/Toronto';
@@ -39,20 +51,34 @@ function App() {
         <Route path='/louvre' element={<Louvre />} />
         <Route path='/disney' element={<DisneyLand />} />
         <Route path='/eyfel' element={<Eyfel />} />
-       <Route path='/palais' element={<Palais />} />
-       <Route path='/roma' element={<Roma />} />
+        <Route path='/palais' element={<Palais />} />
+        <Route path='/roma' element={<Roma />} />
+        <Route path='/collesium' element={<Collesium />} />
+        <Route path='/trevi' element={<TreviFountain />} />
+        <Route path='/galleria' element={<GalleriaBorghese />} />
+        <Route path='/maria' element={<MariaMaggiore />} />
+        <Route path='/london' element={<London />} />
+        <Route path='/buckinghampalace' element={<Buckinghampalace />} />
+        <Route path='/londoneye' element={<LondonEye />} />
+        <Route path='/britishmuseum' element={<BritishMuseum />} />
+        <Route path='/towerbridge' element={<TowerBridge />} />
+        <Route path='/coventgarden' element={<CoventGarden />} />
+        <Route path='/toweroflondon' element={<TowerOfLondon />} />
+        <Route path='/viewshard' element={<ViewShard />} />
 
-       <Route path="/countries/canada" element={<CanadaPage />} />
+        <Route path="/countries/canada" element={<CanadaPage />} />
         <Route path="/canada/Toronto" element={<Toronto />} />
-      <Route path="/countries/United States" element={<UnitedStatesPage />} />
-      <Route path="/United States/Los Angeles" element={<LosAngles />} />
-      <Route path="/United States/Las Vegas" element={<LasVegas />} />
-      <Route path="/United States/Miami" element={<Miami />} />
-      <Route path="/United States/San Francisco" element={<SanFrancisco />} />
-      <Route path="/United States/New York" element={<NewYork />} />
-     <Route path ="/countries/france" element={<France/>} />
-     <Route path ="/france/paris" element={<Paris/>} />
-      
+        <Route path="/countries/United States" element={<UnitedStatesPage />} />
+        <Route path="/United States/Los Angeles" element={<LosAngles />} />
+        <Route path="/United States/Las Vegas" element={<LasVegas />} />
+        <Route path="/United States/Miami" element={<Miami />} />
+        <Route path="/United States/San Francisco" element={<SanFrancisco />} />
+        <Route path="/United States/New York" element={<NewYork />} />
+        <Route path="/countries/france" element={<France />} />
+        <Route path="/france/paris" element={<Paris />} />
+        <Route path="/italy/rome" element={<Roma />} />
+        <Route path="/United Kingdom/london" element={<London />} />
+
       </Routes>
     </Router>
   );

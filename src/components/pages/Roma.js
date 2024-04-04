@@ -5,10 +5,10 @@ import "../Roma.css";
 import classNames from "classnames";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Collesium from '../../images/Collesium.jpg';
+import Collesium from '../../images/Colosseum.jpg';
 import Trevi from '../../images/Trevi.jpg';
-import Galleria from '../../images/Galleria.jpeg';
-import Maria from '../../images/Maria.jpg';
+import Galleria from '../../images/Galleria.jpg';
+import Maria from '../../images/SantaMaria.jpg';
 
 // withNavigation yükleyici fonksiyonu
 export const withNavigation = (Component) => {

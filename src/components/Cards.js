@@ -38,7 +38,7 @@ function Cards() {
               src={img4}  
               text='London: Where History Beckons and Adventures Await!'
               label='Mysterious'
-              path='/explore'
+              path='/london'
             />
             <CardItem
               src={img8}    
