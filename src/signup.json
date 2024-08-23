@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "username": "benbeyza",
+      "email": "benbeyza@gmail.com",
+      "password": "12345"
+    },
+    {
+    "id": 2,
+      "username": "melikenogay",
+      "email": "melike@gmail.com",
+      "password": "123"
+    },
+    { 
+      "id": 3,
+      "username": "aysenurs",
+      "email": "aysenur@gmail.com",
+      "password": "abcd"
+    },
+    { 
+        "id": 4,
+        "username": "ahmet",
+        "email": "ahmet@gmail.com",
+        "password": "abcdef"
+    },
+    { 
+        "id": 5,
+        "username": "mehmet",
+        "email": "mehmet@gmail.com",
+        "password": "abcdefgggg"
+    }
+  ]
+  

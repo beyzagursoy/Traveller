@@ -1,0 +1,23 @@
+[
+    {
+      "comment": "Paris'te Eiffel Kulesi'ni görmek gerçekten harika bir deneyim.",
+      "rating": 5
+    },
+    {
+      "comment": "Roma'da tarihi yapılar çok etkileyici ve görülmeye değer.",
+      "rating": 4
+    },
+    {
+      "comment": "Barselona'da Gaudi'nin eserlerini görmek çok ilginç.",
+      "rating": 4
+    },
+    {
+      "comment": "Londra'da müzeler ve parklar çok güzel.",
+      "rating": 5
+    },
+    {
+      "comment": "Prag'da eski şehir bölgesi çok atmosferik ve güzel.",
+      "rating": 4
+    }
+  ]
+  

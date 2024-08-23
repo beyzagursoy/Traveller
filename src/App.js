@@ -4,10 +4,12 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ReactDOM from 'react-dom';
 
+
 import Home from './components/pages/Home';
-import Countries from './components/pages/Countries';
 import Explore from './components/pages/Explore';
-import SignUp from './components/pages/SignUp';
+import Countries from './components/pages/Countries';
+import SignUp from "./components/pages/SignUp";
+import Login from "./components/pages/Login";
 import Paris from './components/pages/Paris';
 import Louvre from './components/pages/Louvre';
 import DisneyLand from './components/pages/DisneyLand';
@@ -27,6 +29,11 @@ import TowerBridge from './components/pages/TowerBridge';
 import CoventGarden from './components/pages/CoventGarden';
 import TowerOfLondon from './components/pages/TowerOfLondon';
 import ViewShard from './components/pages/ViewShard';
+import Times from "./components/pages/Times";
+import Liberty from "./components/pages/Liberty";
+import CentralPark from "./components/pages/Centralpark";
+import Met from "./components/pages/Met";
+
 
 import CanadaPage from './components/pages/CanadaPage';
 import Toronto from './components/pages/Toronto';
@@ -38,15 +45,17 @@ import Miami from './components/pages/Miami';
 import SanFrancisco from './components/pages/SanFrancisco';
 
 
+
 function App() {
   return (
     <Router>
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/countries' element={<Countries />} />
         <Route path='/explore' element={<Explore />} />
+        <Route path='/countries' element={<Countries />} />
         <Route path='/sign-up' element={<SignUp />} />
+        <Route path="/login" element={<Login />} />
         <Route path='/paris' element={<Paris />} />
         <Route path='/louvre' element={<Louvre />} />
         <Route path='/disney' element={<DisneyLand />} />
@@ -63,8 +72,13 @@ function App() {
         <Route path='/britishmuseum' element={<BritishMuseum />} />
         <Route path='/towerbridge' element={<TowerBridge />} />
         <Route path='/coventgarden' element={<CoventGarden />} />
+        <Route path="/newyork" element={<NewYork />} />
         <Route path='/toweroflondon' element={<TowerOfLondon />} />
         <Route path='/viewshard' element={<ViewShard />} />
+        <Route path="/times" element={<Times />} />
+        <Route path="/liberity" element={<Liberty />} />
+        <Route path="/centralpark" element={<CentralPark/>} />
+        <Route path="/met" element={<Met />} />
 
         <Route path="/countries/canada" element={<CanadaPage />} />
         <Route path="/canada/Toronto" element={<Toronto />} />

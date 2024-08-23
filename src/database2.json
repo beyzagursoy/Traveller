@@ -1,0 +1,437 @@
+{
+    "Paris": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "NewYork": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "LosAngles": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "LasVegas": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Miami": [
+      "Beaches Package",
+      "Art Package",
+      "Food Package",
+      "Nightlife Package"
+    ],
+    "SanFrancisco": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Toronto": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Vancouver": [
+      "Outdoors Package",
+      "Culture Package",
+      "Food Package",
+      "Beaches Package"
+    ],
+    "Montreal": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Calgary": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Ottawa": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Melbourne": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Brisbane": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Perth": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Adelaide": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "London": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Manchester": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Birmingham": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Glasgow": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Liverpool": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Berlin": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Hamburg": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Munich": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Cologne": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Marseille": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Lyon": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Toulous": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Nice": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Rome": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Milan": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Naples": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Turin": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Palermo": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Madrid": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Barcelona": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Valencia": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Seville": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Zaragoza": [
+    "Landmarks Package",
+    "Nature Package",
+    "Food Package",
+    "Culture Package"
+  ],
+  "Amsterdam": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Rotterdam": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "TheHague": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Utrecht": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Eindhoven": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Tokyo": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Yokohama": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+  "Osaka": [
+    "Culture Package",
+    "Food Package",
+    "Museum Package",
+    "Mix Package"
+  ],
+    "Nagoya": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "Sapporo": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "Seoul": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Busan": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Incheon": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Daegu": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Daejeon": [
+      "Landmarks Package",
+      "Nature Package",
+      "Food Package",
+      "Culture Package"
+    ],
+    "Shanghai": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Beijing": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Tianjin": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Guangzhou": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Shenzhen": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "SãoPaulo": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "RiodeJaneiro": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "Salvador": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "Brasília": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "Fortaleza": [
+      "Culture Package",
+      "Food Package",
+      "Museum Package",
+      "Mix Package"
+    ],
+    "MexicoCity": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Ecatepec": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Guadalajara": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Puebla": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Juárez": [
+      "Culture Package",
+      "Food Package",
+      "Outdoors Package",
+      "Entertainment Package"
+    ],
+    "Cairo": [
+    "Culture Package",
+    "Food Package",
+    "Outdoors Package",
+    "Entertainment Package"
+    ],
+    "Giza": [
+        "Culture Package",
+        "Food Package",
+        "Outdoors Package",
+        "Entertainment Package"
+    ],
+    "ShubraEl-Kheima": [
+        "Culture Package",
+        "Food Package",
+        "Outdoors Package",
+        "Entertainment Package"
+    ],
+    "PortSaid": [
+        "Culture Package",
+        "Food Package",
+        "Outdoors Package",
+        "Entertainment Package"
+    ]
+  
+  
+  }
+  

@@ -1,0 +1,22 @@
+[
+    {
+        "email": "benbeyza@gmail.com",
+        "password": "12345"
+    },
+    {
+        "email": "melike@gmail.com",
+        "password": "123"
+    },
+    {
+        "email": "aysenur@gmail.com",
+        "password": "abcd"
+    },
+    {
+        "email": "ahmet@gmail.com",
+        "password": "abcdef"
+    },
+    {
+        "email": "mehmet@gmail.com",
+        "password": "abcdefgggg"
+    }
+]

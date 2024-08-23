@@ -1,0 +1,71 @@
+/* src/components/Explore.css */
+
+body {
+  background-color: #f9f9f9!important;
+}
+
+/* General container styling */
+.containerr {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 800px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling the recommended packages */
+.package-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 15px;
+}
+
+.package-box {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: calc(33% - 40px);
+  text-align: center;
+}
+
+.package-box img {
+  max-width: 100%; /* Prevents the image from exceeding the container width */
+  height: auto; /* Maintains the image's aspect ratio */
+  object-fit: contain; /* Ensures the image fits within its container without distortion */
+}
+
+.package-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.package-duration {
+  font-size: 14px;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* Equal width for select and input elements */
+select, input[type="number"] {
+  width: 200px; /* Adjust this value as needed */
+  box-sizing: border-box; /* Includes padding and border in element's total width */
+  margin-bottom: 20px;
+}
+
+select option {
+  width: 180px; /* Adjust based on your needs */
+}
+
+label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 10px;
+}

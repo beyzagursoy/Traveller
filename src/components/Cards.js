@@ -24,7 +24,7 @@ function Cards() {
               src={img2}
               text='Discover the Magic of New York: Where Dreams Take Flight!'
               label='Luxury'
-              path='/countries'
+              path='/newyork'
             />
           </ul>
           <ul className='cards__items'>
@@ -45,7 +45,7 @@ function Cards() {
               text='
               Maldives: Paradise Found, Serenity Unleashed!'
               label='Relax'
-              path='/sign-up'
+              path='/'
             />
           </ul>
         </div>
